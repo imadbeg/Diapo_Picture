@@ -1,0 +1,7 @@
+﻿  Diapo_Picture.cpp
+D:\imad\TDopencv\Diapo_Picture\Diapo_Picture\Diapo_Picture.cpp(27,11): error C2872: 'Point' : symbole ambigu
+D:\imad\TDopencv\Diapo_Picture\Diapo_Picture\Diapo_Picture.cpp(9,8): message : est peut-être 'Point'
+E:\opencv\build\include\opencv2\core\types.hpp(204,17): message : ou       'cv::Point'
+D:\imad\TDopencv\Diapo_Picture\Diapo_Picture\Diapo_Picture.cpp(56,11): error C2872: 'Point' : symbole ambigu
+D:\imad\TDopencv\Diapo_Picture\Diapo_Picture\Diapo_Picture.cpp(9,8): message : est peut-être 'Point'
+E:\opencv\build\include\opencv2\core\types.hpp(204,17): message : ou       'cv::Point'
